@@ -2,6 +2,11 @@
 ## Overview
 Blackjack card counter utilizing Canny edge detection, contour finding, polygonal approximation, normalized cross correlation template matching, and the Hi-Lo card counting algorithm to track the count over Blackjack hands, giving the player a slight edge over the house.
 
+![image](https://github.com/user-attachments/assets/132ac01a-50e1-4fc3-88bd-3bf87744c1cf)
+
+## New to Blackjack?
+If you are not familiar with Blackjack or counting cards, I recommend reading this brief [article](https://www.blackjackapprenticeship.com/how-to-play-blackjack/) outlining the rules. And this [article](https://www.blackjackapprenticeship.com/how-to-count-cards/) detailing the methodology of counting cards. I also highly recommend the movie 21! 
+
 ## Example Detection
 
 <img width="800" height="450" alt="detection-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/148907de-b232-4a3e-a3b4-29f65f3cdbca" />
@@ -9,8 +14,7 @@ Blackjack card counter utilizing Canny edge detection, contour finding, polygona
 A 4 of Hearts is dealt and detected. Notice the count shifting, as well.
 
 ## Demo Video
-A few simulation hands showing the shifting counts, card detections, and changing bet sizes!
-https://youtu.be/FyH2guCCPNs
+This [demo](https://youtu.be/FyH2guCCPNs) video shows a few simulation hands showing the shifting counts, card detections, and changing bet sizes!
 
 ## Pipeline
 * Canny Edge Detection
