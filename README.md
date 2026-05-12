@@ -38,8 +38,7 @@ Running main with an external webcam will execute the program. While template fi
   * Even a large enough shift in angle can significantly disrupt template matching
 
 ## Theory
-If you are interested in each method of the pipeline and the math, feel free to go through this high-level overview!
-[theoryblackjack.pdf](https://github.com/user-attachments/files/27659530/theoryblackjack.pdf)
+If you are interested in each method of the pipeline and the math, feel free to go through this high-level [overview]((https://github.com/user-attachments/files/27659530/theoryblackjack.pdf))!
 
 ## References
 * Burger, W., & Burge, M. J. (2022). Digital Image Processing: An Algorithmic Introduction (3rd ed.). Springer.
